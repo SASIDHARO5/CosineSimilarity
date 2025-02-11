@@ -2,3 +2,4 @@ node_modules/
 uploads/
 .env
 audio.mp3
+.DS_Store
